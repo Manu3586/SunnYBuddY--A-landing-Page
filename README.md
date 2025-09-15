@@ -5,13 +5,17 @@ This is a **work in progress** landing page for **SunnYBuddY**, a fresh and natu
 ✅ **Technologies used**:  
 - HTML  
 - CSS  
+- JavaScript (for interactivity)
 
 ⚙️ **Current status**:  
-The landing page structure and styling have been started, but the project is still under development. More features and interactivity will be added soon.
+The basic structure and styling of the landing page have been completed. Today, simple JavaScript functionality was added to improve user experience:
+- A mobile-friendly navigation menu that toggles open and closed.
+- Smooth scrolling when navigation links are clicked.
 
 📂 **Next steps**:  
-- Improve design details  
-- Add animations and interactions with JavaScript  
-- Optimize responsiveness and user experience
+- Add more animations and transitions.
+- Enhance responsiveness and accessibility.
+- Implement additional interactive features like form validation.
 
-Stay tuned for updates!
+Stay tuned as this project continues to evolve!
+
